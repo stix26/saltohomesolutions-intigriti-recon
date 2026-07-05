@@ -1,0 +1,4 @@
+https://api.danalock.com/swagger/index.html -> 200
+https://danalock.com/ -> 200
+https://staging.airbnb.danalock.com/login -> 200
+https://staging.api.danalock.com -> 404
